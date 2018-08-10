@@ -19,4 +19,4 @@ npx parcel src/index.pug -p 3000
 
 ## Screenshots
 
-![GitHub Logo](/screenshots/resume-draft2.png)
+![GitHub Logo](/screenshots/resume-fullpage-1.png)
